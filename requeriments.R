@@ -1,0 +1,5 @@
+install.packages("sigFeature")
+install.packages("Rdimtools")
+install.packages("h2o")
+install.packages("caret")
+install.packages("dplyr")
