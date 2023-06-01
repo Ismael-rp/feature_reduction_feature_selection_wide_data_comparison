@@ -98,6 +98,7 @@ In this repository the R code for the feature selection and feature selection al
    <td></td><td></td>
 </table>
 
+Also the an algorithm to estimate the reduction in non-linear algorithms proposed by (Yang et al., [2010](https://doi.org/10.1609/aaai.v24i1.7696) is included.
 
 
 # How to use
