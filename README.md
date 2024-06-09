@@ -198,10 +198,14 @@ fSelection_svm_rfe(data$train)
 # Cite this article
 
 ```
-@article{ramos2023reduction,
-  title={A performance comparison between feature reduction and feature selection algorithms preprocessing on wide data},
-  author={Ramos-P{\'e}rez, Ismael and Barbero-Aparicio, Jos{\'e} Antonio and Canepa-Oneto, Antonio and Arnaiz-Gonz{\'a}lez, {\'A}lvar and Maudes-Raedo, Jes{\'u}s M.},
-  journal={Applications Sciences},
-  year = "in press"
+@article{ramos2024extensive,
+  title={An Extensive Performance Comparison between Feature Reduction and Feature Selection Preprocessing Algorithms on Imbalanced Wide Data},
+  author={Ramos-P{\'e}rez, Ismael and Barbero-Aparicio, Jos{\'e} Antonio and Canepa-Oneto, Antonio and Arnaiz-Gonz{\'a}lez, {\'A}lvar and Maudes-Raedo, Jes{\'u}s},
+  journal={Information},
+  volume={15},
+  number={4},
+  pages={223},
+  year={2024},
+  publisher={MDPI}
 }
 ```
